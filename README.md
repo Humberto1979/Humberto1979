@@ -1,16 +1,18 @@
-## Hi there 👋
+# Humberto Oliveira Sampaio Neto
 
-<!--
-**Humberto1979/Humberto1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Development Engineer (Mechatronics, 18+ years at Ford) applying **AI & Machine Learning to engineering workflows**: LLM-based multi-agent systems, NLP data mining, and Python internal tools deployed on Google Cloud Platform (Podman containers, CI/CD).
 
-Here are some ideas to get you started:
+⚠️ **NDA notice:** my professional AI/data work (multi-agent research assistant, warranty data-mining application) is proprietary to Ford Motor Company and cannot be published. Public repositories replicate the same techniques using public/open datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you'll find here
+- `devopspro_exercicios` — hands-on labs of my ongoing DevOps specialization (Linux, Git, CI/CD, containers)
+- `aiops-ia-projetos` — AIOps/LLM engineering exercises: LangChain token analysis, context-window monitor, RAG retrieve-inject, structured logs
+- `Padrao_Manifest_Metacortex` — GitOps/Kustomize (base + overlays) and SDD exercise, with report
+- `MCP_DataCleaner` — my own Model Context Protocol server for data-cleaning workflows
+
+*(planned: `Estudo_data_science` ML pipeline mirror · `RAG_PROJECT` local RAG builder — will be published after sanitization)*
+
+## Toolbox
+Python · LangChain · scikit-learn · pandas · NumPy · NLTK · SQL/SQLite · GCP/Podman/CI-CD · Bash
+
+Fluent English · Brazil (UTC-3, ~4h overlap with EU & US ET) · Open to remote/hybrid
